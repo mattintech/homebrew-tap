@@ -14,6 +14,6 @@ class Clipto < Formula
   end
 
   test do
-    assert_match "Clipto", shell_output("#{bin}/clipto --help")
+    assert_match "Instant clipboard", shell_output("#{bin}/clipto --help")
   end
 end
