@@ -3,8 +3,8 @@ class Clipto < Formula
 
   desc "Instant clipboard, screenshot, and file bridge from browser to terminal"
   homepage "https://github.com/mattintech/clipto"
-  url "https://github.com/mattintech/clipto/releases/download/v0.2.0/clipto-0.2.0.tar.gz"
-  sha256 "164f4981210f8083400de1260616dfe4f20c8764f5bdeba6efcae15dbb9d1585"
+  url "https://github.com/mattintech/clipto/releases/download/v0.3.2/clipto-0.3.2.tar.gz"
+  sha256 "867adeeac99d0df839be1c33cad99a05d095ed240833d1c46285041087d0c3a3"
   license "MIT"
 
   depends_on "python@3.11"
